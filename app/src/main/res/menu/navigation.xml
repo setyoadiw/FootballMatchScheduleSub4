@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/last"
+        android:icon="@drawable/ic_event_last"
+        android:title="Last Event" />
+
+    <item
+        android:id="@+id/next"
+        android:icon="@drawable/ic_event_next"
+        android:title="Next Event" />
+
+    <item
+        android:id="@+id/fav"
+        android:icon="@drawable/ic_menu_fav"
+        android:title="Favorite" />
+
+</menu>
